@@ -5,4 +5,14 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>sqssnstest</name>
   <description>a little test of sns sqs linkage</description>
+  
+  <dependencies>
+	  <dependency>
+		<groupId>com.amazonaws</groupId>
+		<artifactId>aws-java-sdk</artifactId>
+		<version>1.3.27</version>
+	  </dependency>
+  </dependencies>
+            
+  
 </project>
